@@ -1,0 +1,15 @@
+C:\Users\Urano\source\repos_VS\Class_ POO\bin\Debug\net6.0\Class_ POO.exe
+C:\Users\Urano\source\repos_VS\Class_ POO\bin\Debug\net6.0\Class_ POO.deps.json
+C:\Users\Urano\source\repos_VS\Class_ POO\bin\Debug\net6.0\Class_ POO.runtimeconfig.json
+C:\Users\Urano\source\repos_VS\Class_ POO\bin\Debug\net6.0\Class_ POO.dll
+C:\Users\Urano\source\repos_VS\Class_ POO\bin\Debug\net6.0\Class_ POO.pdb
+C:\Users\Urano\source\repos_VS\Class_ POO\obj\Debug\net6.0\Class_ POO.csproj.AssemblyReference.cache
+C:\Users\Urano\source\repos_VS\Class_ POO\obj\Debug\net6.0\Class_ POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Urano\source\repos_VS\Class_ POO\obj\Debug\net6.0\Class_ POO.AssemblyInfoInputs.cache
+C:\Users\Urano\source\repos_VS\Class_ POO\obj\Debug\net6.0\Class_ POO.AssemblyInfo.cs
+C:\Users\Urano\source\repos_VS\Class_ POO\obj\Debug\net6.0\Class_ POO.csproj.CoreCompileInputs.cache
+C:\Users\Urano\source\repos_VS\Class_ POO\obj\Debug\net6.0\Class_ POO.dll
+C:\Users\Urano\source\repos_VS\Class_ POO\obj\Debug\net6.0\refint\Class_ POO.dll
+C:\Users\Urano\source\repos_VS\Class_ POO\obj\Debug\net6.0\Class_ POO.pdb
+C:\Users\Urano\source\repos_VS\Class_ POO\obj\Debug\net6.0\Class_ POO.genruntimeconfig.cache
+C:\Users\Urano\source\repos_VS\Class_ POO\obj\Debug\net6.0\ref\Class_ POO.dll
