@@ -1,0 +1,15 @@
+C:\Users\Urano\source\repos_VS\Objetos\bin\Debug\net6.0\Objetos.exe
+C:\Users\Urano\source\repos_VS\Objetos\bin\Debug\net6.0\Objetos.deps.json
+C:\Users\Urano\source\repos_VS\Objetos\bin\Debug\net6.0\Objetos.runtimeconfig.json
+C:\Users\Urano\source\repos_VS\Objetos\bin\Debug\net6.0\Objetos.dll
+C:\Users\Urano\source\repos_VS\Objetos\bin\Debug\net6.0\Objetos.pdb
+C:\Users\Urano\source\repos_VS\Objetos\obj\Debug\net6.0\Objetos.csproj.AssemblyReference.cache
+C:\Users\Urano\source\repos_VS\Objetos\obj\Debug\net6.0\Objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Urano\source\repos_VS\Objetos\obj\Debug\net6.0\Objetos.AssemblyInfoInputs.cache
+C:\Users\Urano\source\repos_VS\Objetos\obj\Debug\net6.0\Objetos.AssemblyInfo.cs
+C:\Users\Urano\source\repos_VS\Objetos\obj\Debug\net6.0\Objetos.csproj.CoreCompileInputs.cache
+C:\Users\Urano\source\repos_VS\Objetos\obj\Debug\net6.0\Objetos.dll
+C:\Users\Urano\source\repos_VS\Objetos\obj\Debug\net6.0\refint\Objetos.dll
+C:\Users\Urano\source\repos_VS\Objetos\obj\Debug\net6.0\Objetos.pdb
+C:\Users\Urano\source\repos_VS\Objetos\obj\Debug\net6.0\Objetos.genruntimeconfig.cache
+C:\Users\Urano\source\repos_VS\Objetos\obj\Debug\net6.0\ref\Objetos.dll
