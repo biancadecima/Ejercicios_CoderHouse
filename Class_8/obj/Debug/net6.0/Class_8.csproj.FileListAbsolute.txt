@@ -1,0 +1,15 @@
+C:\Users\Urano\source\repos_VS\Class_8\bin\Debug\net6.0\Class_8.exe
+C:\Users\Urano\source\repos_VS\Class_8\bin\Debug\net6.0\Class_8.deps.json
+C:\Users\Urano\source\repos_VS\Class_8\bin\Debug\net6.0\Class_8.runtimeconfig.json
+C:\Users\Urano\source\repos_VS\Class_8\bin\Debug\net6.0\Class_8.dll
+C:\Users\Urano\source\repos_VS\Class_8\bin\Debug\net6.0\Class_8.pdb
+C:\Users\Urano\source\repos_VS\Class_8\obj\Debug\net6.0\Class_8.csproj.AssemblyReference.cache
+C:\Users\Urano\source\repos_VS\Class_8\obj\Debug\net6.0\Class_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Urano\source\repos_VS\Class_8\obj\Debug\net6.0\Class_8.AssemblyInfoInputs.cache
+C:\Users\Urano\source\repos_VS\Class_8\obj\Debug\net6.0\Class_8.AssemblyInfo.cs
+C:\Users\Urano\source\repos_VS\Class_8\obj\Debug\net6.0\Class_8.csproj.CoreCompileInputs.cache
+C:\Users\Urano\source\repos_VS\Class_8\obj\Debug\net6.0\Class_8.dll
+C:\Users\Urano\source\repos_VS\Class_8\obj\Debug\net6.0\refint\Class_8.dll
+C:\Users\Urano\source\repos_VS\Class_8\obj\Debug\net6.0\Class_8.pdb
+C:\Users\Urano\source\repos_VS\Class_8\obj\Debug\net6.0\Class_8.genruntimeconfig.cache
+C:\Users\Urano\source\repos_VS\Class_8\obj\Debug\net6.0\ref\Class_8.dll
