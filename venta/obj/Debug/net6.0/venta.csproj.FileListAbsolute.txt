@@ -1,0 +1,15 @@
+C:\Users\Urano\source\repos_VS\venta\bin\Debug\net6.0\venta.exe
+C:\Users\Urano\source\repos_VS\venta\bin\Debug\net6.0\venta.deps.json
+C:\Users\Urano\source\repos_VS\venta\bin\Debug\net6.0\venta.runtimeconfig.json
+C:\Users\Urano\source\repos_VS\venta\bin\Debug\net6.0\venta.dll
+C:\Users\Urano\source\repos_VS\venta\bin\Debug\net6.0\venta.pdb
+C:\Users\Urano\source\repos_VS\venta\obj\Debug\net6.0\venta.csproj.AssemblyReference.cache
+C:\Users\Urano\source\repos_VS\venta\obj\Debug\net6.0\venta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Urano\source\repos_VS\venta\obj\Debug\net6.0\venta.AssemblyInfoInputs.cache
+C:\Users\Urano\source\repos_VS\venta\obj\Debug\net6.0\venta.AssemblyInfo.cs
+C:\Users\Urano\source\repos_VS\venta\obj\Debug\net6.0\venta.csproj.CoreCompileInputs.cache
+C:\Users\Urano\source\repos_VS\venta\obj\Debug\net6.0\venta.dll
+C:\Users\Urano\source\repos_VS\venta\obj\Debug\net6.0\refint\venta.dll
+C:\Users\Urano\source\repos_VS\venta\obj\Debug\net6.0\venta.pdb
+C:\Users\Urano\source\repos_VS\venta\obj\Debug\net6.0\venta.genruntimeconfig.cache
+C:\Users\Urano\source\repos_VS\venta\obj\Debug\net6.0\ref\venta.dll
